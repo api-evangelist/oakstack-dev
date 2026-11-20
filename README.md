@@ -64,45 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Oakstack provides websites, trade tools, and apps for contractors, subs, and suppliers, plus a single API key delivering infrastructure such as scheduled jobs, webhooks, PDFs, email, SMS, push notifications, and document processing. It targets developers building applications with coding agents, offering a unified platform for the construction trade ecosystem.
+Oakstack provides websites, trade tools, and apps for contractors, subcontractors, and suppliers, offering a unified API key that powers infrastructure such as scheduled jobs, webhooks, PDFs, email, texts, and push notifications for applications built with coding agents. The platform aims to simplify digital workflows in the construction trades, delivering both consumer‑facing services and developer‑focused APIs.
 
-**Areas:** Construction · API · Infrastructure · Developers · TradeTools
+**Areas:** Construction · API · DeveloperPlatform · TradeTools · SaaS
 
 ## Oakstack on APIs.io
 
 Everything profiled for Oakstack is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/oakstack-dev/](https://apis.io/providers/oakstack-dev/)** — or go straight to one of the APIs or properties below.
 
-### APIs (2)
-
-- [Oakstack API](https://apis.io/apis/oakstack-dev/oakstack-api/) — Oakstack provides a unified API key delivering infrastructure modules such as scheduled jobs, webhook relay, PDF generation, image processing, email, SMS,…
-- [Oakstack API](https://apis.io/apis/oakstack-dev/oakstack-dev-api/) — Oakstack API as documented publicly: 26 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
-
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### JSON Schema (6)
-
-The data models the API reads and writes.
-
-- [GetApiV1ClockJobsIdResponse](https://apis.io/schemas/oakstack-dev/oakstack-dev-get-api-v1-clock-jobs-id-response/)
-- [GetApiV1HookEndpointsIdResponse](https://apis.io/schemas/oakstack-dev/oakstack-dev-get-api-v1-hook-endpoints-id-response/)
-- [GetApiV1HookEventsIdResponse](https://apis.io/schemas/oakstack-dev/oakstack-dev-get-api-v1-hook-events-id-response/)
-- [PatchApiV1HookEndpointsIdResponse](https://apis.io/schemas/oakstack-dev/oakstack-dev-patch-api-v1-hook-endpoints-id-response/)
-- [PostApiV1HookEndpointsResponse](https://apis.io/schemas/oakstack-dev/oakstack-dev-post-api-v1-hook-endpoints-response/)
-- [PostApiV1HookEventsIdReplayResponse](https://apis.io/schemas/oakstack-dev/oakstack-dev-post-api-v1-hook-events-id-replay-response/)
-
-#### JSON-LD (1)
-
-Linked-data contexts for the provider's vocabulary.
-
-- [Oakstack Dev Context](https://apis.io/jsonld/oakstack-dev/oakstack-dev-context/)
-
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [Oakstack API Rules](https://apis.io/rules/oakstack-dev/oakstack-dev-rules/)
 
 #### Security (1)
 
@@ -116,31 +88,32 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://oakstack.dev/)
 - [Documentation](https://oakstack.dev/docs)
+- [Sign up](https://oakstack.dev/login)
 - [Terms of service](https://oakstack.dev/terms)
 - [Privacy policy](https://oakstack.dev/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 36.8** — thin · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 13.1** — emerging · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 53.4 |
-| Contract governance | 79.1 |
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 26.2 |
-| Access clarity | 17.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 27.7 |
 
-**Agent readiness 20.3** — agent-aware
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | yes |
+| Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
-| Auth Clarity | bearer (partial credit) |
+| Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
@@ -156,10 +129,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
-| Operation Distinctiveness | distinct |
+| Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/oakstack-dev/](https://apis.io/providers/oakstack-dev/).
 
